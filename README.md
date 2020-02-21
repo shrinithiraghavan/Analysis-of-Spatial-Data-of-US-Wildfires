@@ -1,4 +1,4 @@
-This project analyses the Spatial wildfires data. 
+This project analyses the U.S. Spatial wildfires data. 
 
 The input data is obtained from kaggle - https://www.kaggle.com/rtatman/188-million-us-wildfires 
 
